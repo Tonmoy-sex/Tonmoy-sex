@@ -1,0 +1,36 @@
+﻿             
+          
+          👹👹 Scroll Down xD 👹👹 
+
+
+
+SMS or Call Bombing is one of the most 
+powerful tools in Hacking because of 
+the fact that no one can Stop Hackers
+to use This Attack, To stop this 
+Victim has to turn off the phone or
+block calls and SMS from unknown 
+sources in both the case Victim will
+be unable to get the call from any 
+other source And this is all in your
+control by just using this tool. 
+Please Never Miss-Use any Tools or it
+will cause a lot of trouble for you. 
+Stay Ethical??. Thanks for reading and
+If you have any questions or you are 
+getting any problem while installing 
+the tool then comment down below 
+I will be happy to help you
+
+
+👹👹All the codes used in the video👹👹 
+
+🔰apt update && apt upgrade
+🔰pkg install git
+🔰git clone https://github.com/TheSpeedX/TBomb.git
+🔰cd TBomb
+🔰chmod +x TBomb.sh
+🔰./TBomb.sh
+🔰cd TBomb && ./TBomb.sh
+
+😈share I 😈Like I 😈And Subscribe
